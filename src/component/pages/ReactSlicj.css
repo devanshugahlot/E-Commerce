@@ -1,0 +1,32 @@
+.Item img{
+    width: 160px;
+    cursor: pointer;
+    }
+    
+    .product-img-div{
+        border: 1px solid #F4F4F4;
+        border-radius: 5px;
+        width: 162px;
+        /* cursor: pointer; */
+    }
+    
+    
+    .star-div{
+        /* line-height: 20px; */
+    }
+    
+    
+    .Item .star-div p{
+    color: #6C757D;
+    
+    
+    }
+    
+    .Item .star-div span{
+        font-weight: bold;
+    }
+    
+    
+    .Item .star-div .rate{
+       color: #608CC7;
+    }

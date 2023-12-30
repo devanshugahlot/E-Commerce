@@ -1,0 +1,86 @@
+.main-timer-div{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+   
+}
+.offer-all-data{
+    align-items: center;
+    padding: 20px 40px;
+    background-color: white;
+    border-radius: 10px;
+    width: 90%;
+    height: 50vh;
+    display: flex;
+    margin-top: 40px;
+    /* justify-content: center; */
+    
+
+}
+.offer-div-1{
+    height: auto;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+}
+.numbers-div{
+    display: flex;
+    gap: 20px;
+    text-align: center;
+    justify-content: center;
+}
+.timer{
+     background-color: #E7EEF7;
+    height: 7vh;
+    width: 50px;
+    border-radius: 50%; 
+    display: flex;  
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.numbers-name{
+    display: flex;
+    gap: 28px;
+    justify-content: center;
+
+}
+.sale-img{
+    display: flex;
+    justify-content: center;
+}
+
+.sale-img img{
+width: 200px;
+
+}
+
+.sale-heading{
+    display: flex;
+    /* text-align: center; */
+    align-items: center;
+    justify-content: center;
+}
+
+.sale-heading h2{
+color: #1455AC;
+}
+
+.sale-heading p{
+  color:#6C757D ;  
+}
+
+
+.sale-img img{
+    width: 100px;
+    border-radius: 50%;
+}
+
+
+.offer-div-2{
+    /* width: 600px; */
+    width: 70%;
+    /* align-items: center; */
+}
+
